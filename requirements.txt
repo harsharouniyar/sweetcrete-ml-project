@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+openpyxl
+jupyter
+ipykernel
+# If xgboost installation fails locally, the notebook falls back to KNeighborsRegressor.
+xgboost
